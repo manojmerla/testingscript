@@ -1,0 +1,2 @@
+# testingscript
+only script assets
